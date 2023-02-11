@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
         primaryColor: Colors.black,
         scaffoldBackgroundColor: Color(0xffF8F8F8),
       ),
-      home: HomePage(title: '柳岔/流沙/差点-清单计划APP'),
+      home: HomePage(title: '差点-清单计划APP'),
     ));
   }
 }
